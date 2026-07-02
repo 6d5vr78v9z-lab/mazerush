@@ -1,0 +1,2 @@
+# mazerush
+MazeRush - legal pages
